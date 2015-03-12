@@ -1,17 +1,17 @@
-markdown: kramdown
-highlighter: pygments
-permalink: blog/:year/:month/:day/:title.html
-paginate: 6
-paginate_path: page/:num
+markdown:kramdown
+highlighter:pygments
+permalink:blog/:year/:month/:day/:title.html
+paginate:6
+paginate_path:page/:num
 
 blog:
-    name: 杨雍的博客
-    description: Cocos2d-x核心开发者兼游戏制作人
-    title: 杨雍的博客
-    url: http://ivenyang.com/
-    duoshuo: Ivenyang
-    tongji: 99dd06de5dba3aa89e08ee5d9e733280
-    qiniu: 1
+    name:杨雍的博客
+    description:Cocos2d-x核心开发者兼游戏制作人
+    title:杨雍的博客
+    url:http://ivenyang.com/
+    duoshuo:Ivenyang
+    tongji:99dd06de5dba3aa89e08ee5d9e733280
+    qiniu:1
 author:
     name:杨雍
     email:iven@tairan.com
