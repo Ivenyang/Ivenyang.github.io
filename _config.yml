@@ -5,8 +5,8 @@ paginate: 6
 paginate_path: page/:num
 
 blog:
-    name: 杨雍的博客                                               # 博客名称
-    description:Cocos2d-x核心开发者兼游戏制作人                                         # 博客描述
+    name: 杨雍的博客
+    description:Cocos2d-x核心开发者兼游戏制作人
     title:杨雍的博客                                               # 网页标题
     url:http://ivenyang.com/                                          # 博客地址
     duoshuo:Ivenyang                                             # 多说ID
