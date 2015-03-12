@@ -7,17 +7,17 @@ paginate_path: page/:num
 blog:
     name: 杨雍的博客
     description: Cocos2d-x核心开发者兼游戏制作人
-    title:杨雍的博客                                               # 网页标题
-    url:http://ivenyang.com/                                          # 博客地址
-    duoshuo:Ivenyang                                             # 多说ID
-    tongji:1                                              # 百度统计ID
-    qiniu:1                                             # 七牛云地址
+    title: 杨雍的博客
+    url: http://ivenyang.com/
+    duoshuo: Ivenyang
+    tongji:1
+    qiniu:1
 author:
-    name:杨雍                                                # 作者名称
-    email: 1@q.com                                             # 邮箱地址
-    weibo:    http://weibo.com/1                                         # 微博地址
-    github:   http://github.com/ivenyang                                           # GitHub地址
+    name:杨雍
+    email: 1@q.com
+    weibo:    http://weibo.com/1
+    github:   http://github.com/ivenyang
     logo:https://raw.githubusercontent.com/Ivenyang/Ivenyang.github.io/master/res/img/logo.png                                             # logo地址
     douban:1
-        name:   1                                         # 豆瓣地址名称
-        key:     1                                        # 豆瓣API Key
+        name: 1
+        key: 1
