@@ -14,10 +14,10 @@ blog:
     qiniu: 1
 author:
     name:杨雍
-    email: 1@q.com
-    weibo:    http://weibo.com/1
-    github:   http://github.com/ivenyang
-    logo:https://raw.githubusercontent.com/Ivenyang/Ivenyang.github.io/master/res/img/logo.png                                             # logo地址
-    douban:1
+    email: 1@qq.com
+    weibo: http://weibo.com/1
+    github: http://github.com/ivenyang
+    logo: https://raw.githubusercontent.com/Ivenyang/Ivenyang.github.io/master/res/img/logo.png                                             # logo地址
+    douban: 1
         name: 1
         key: 1
