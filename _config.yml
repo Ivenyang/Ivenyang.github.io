@@ -10,7 +10,7 @@ blog:
     title: 杨雍的博客
     url: http://ivenyang.com/
     duoshuo: Ivenyang
-    tongji:<script>
+    tongji: <script>
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
