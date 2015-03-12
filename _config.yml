@@ -10,16 +10,8 @@ blog:
     title: 杨雍的博客
     url: http://ivenyang.com/
     duoshuo: Ivenyang
-    tongji: <script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "//hm.baidu.com/hm.js?99dd06de5dba3aa89e08ee5d9e733280";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
-    qiniu:1
+    tongji: 99dd06de5dba3aa89e08ee5d9e733280
+    qiniu: 1
 author:
     name:杨雍
     email: 1@q.com
