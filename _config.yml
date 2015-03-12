@@ -10,14 +10,14 @@ blog:
     title:  杨雍的博客                                               # 网页标题
     url:http://ivenyang.com/                                          # 博客地址
     duoshuo:Ivenyang                                             # 多说ID
-    tongji:                                              # 百度统计ID
-    qiniu:                                               # 七牛云地址
+    tongji:1                                              # 百度统计ID
+    qiniu:  1                                             # 七牛云地址
 author:
-    name:                                                # 作者名称
-    email:                                               # 邮箱地址
-    weibo:                                               # 微博地址
-    github:                                              # GitHub地址
+    name:杨雍                                                # 作者名称
+    email:  1                                             # 邮箱地址
+    weibo:    1                                           # 微博地址
+    github:   1                                           # GitHub地址
     logo:https://raw.githubusercontent.com/Ivenyang/Ivenyang.github.io/master/res/img/logo.png                                             # logo地址
-    douban:
-        name:                                            # 豆瓣地址名称
-        key:                                             # 豆瓣API Key
+    douban:1
+        name:   1                                         # 豆瓣地址名称
+        key:     1                                        # 豆瓣API Key
