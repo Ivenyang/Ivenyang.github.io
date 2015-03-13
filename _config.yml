@@ -1,8 +1,8 @@
-markdown:kramdown
-highlighter:pygments
-permalink:blog/:year/:month/:day/:title.html
-paginate:6
-paginate_path:page/:num
+markdown: kramdown
+highlighter: pygments
+permalink: blog/:year/:month/:day/:title.html
+paginate: 6
+paginate_path: page/:num
 
 blog:
     name:杨雍的博客
