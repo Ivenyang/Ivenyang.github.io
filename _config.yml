@@ -3,6 +3,7 @@ highlighter:pygments
 permalink:blog/:year/:month/:day/:title.html
 paginate:6
 paginate_path:page/:num
+
 blog:
     name:杨雍的博客
     description:Cocos2d-x核心开发者兼游戏制作人
