@@ -1,11 +1,23 @@
-auto: true
+markdown:kramdown
+highlighter:pygments
+permalink:blog/:year/:month/:day/:title.html
+paginate:6
+paginate_path:page/:num
 
-markdown: rdiscount
-pygments: true
-paginate: 8
-permalink: /:title
-
-title: 杨雍的博客
-url: http://IvenYang.com
-feed: /atom.xml
-author_info: <a href="http://IvenYang.com/">杨雍</a>
+blog:
+    name:杨雍的博客
+    description:Cocos2d-x核心开发者兼游戏制作人
+    title:杨雍的博客
+    url:http://ivenyang.com/
+    duoshuo:Ivenyang
+    tongji:99dd06de5dba3aa89e08ee5d9e733280
+    qiniu:1
+author:
+    name:杨雍
+    email:iven@tairan.com
+    weibo:http://weibo.com/1
+    github:http://github.com/ivenyang
+    logo:https://raw.githubusercontent.com/Ivenyang/Ivenyang.github.io/master/res/img/logo.png                                             # logo地址
+    douban:
+        name:ivenyang
+        key:09bf702955a5360e1d3e507c00efa22a
